@@ -60,5 +60,6 @@ class Queue {
                 System.out.println(queue.peek());
             } 
         }
+        scan.close();
     }
 }
